@@ -1,164 +1,164 @@
 {
-    "tokens": [
+  "tokens": [
+    {
+      "id": 1,
+      "description": "Ini cuman huruf A biasa",
+      "external_url": "https://google.com/",
+      "image": "https://5.imimg.com/data5/SELLER/Default/2020/12/QF/VO/VC/15145574/alphabet-shaped-box-500x500.jpg",
+      "name": "Huruf A",
+      "attributes": [
         {
-            "id": 1,
-            "description": "Ini cuman huruf A biasa",
-            "external_url": "https://google.com/",
-            "image": "https://5.imimg.com/data5/SELLER/Default/2020/12/QF/VO/VC/15145574/alphabet-shaped-box-500x500.jpg",
-            "name": "Huruf A",
-            "attributes": [
-            {
-              "trait_type": "Race", 
-              "value": "Alphabet"
-            }, 
-            {
-              "trait_type": "Strength", 
-              "value": 2
-            }, 
-            {
-              "trait_type": "Agility", 
-              "value": 4
-            }, 
-            {
-              "trait_type": "Intelligence", 
-              "value": 8
-            }, 
-            {
-              "trait_type": "Stamina", 
-              "value": 1
-            }, 
-            {
-              "display_type": "boost_number", 
-              "trait_type": "Aqua Power", 
-              "value": 40
-            }, 
-            {
-              "display_type": "boost_percentage", 
-              "trait_type": "Stamina Increase", 
-              "value": 10
-            }, 
-            {
-              "display_type": "number", 
-              "trait_type": "Generation", 
-              "value": 2
-            }
-          ]
+          "trait_type": "Race",
+          "value": "Alphabet"
         },
         {
-            "id": 2,
-            "description": "Ini Kodok Ajaib Super Bisa Terbang Loch",
-            "external_url": "https://en.wikipedia.org/wiki/Wallace%27s_flying_frog",
-            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Rhacophorus_nigropalmatus.jpg/800px-Rhacophorus_nigropalmatus.jpg",
-            "name": "Kodok Wikipedia",
-            "attributes": [
-            {
-              "trait_type": "Race", 
-              "value": "Animal"
-            }, 
-            {
-              "trait_type": "Strength", 
-              "value": 5
-            }, 
-            {
-              "trait_type": "Agility", 
-              "value": 9
-            }, 
-            {
-              "trait_type": "Intelligence", 
-              "value": 7
-            }, 
-            {
-              "trait_type": "Stamina", 
-              "value": 3
-            }
-          ]
+          "trait_type": "Strength",
+          "value": 2
         },
         {
-            "id": 3,
-            "description": "Banteng Ferdinand dari animasi",
-            "external_url": "https://www.liputan6.com/showbiz/read/3197253/ferdinand-petualangan-banteng-besar-nan-baik-hati",
-            "image": "https://cdn0-production-images-kly.akamaized.net/ew74c2xgNg-AUQQFzJ-23g2U_qw=/640x360/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/1802985/original/012323300_1513333959-publ_170_260_150_4K_UniversalColor_WB.jpg",
-            "name": "Banteng Ferdinand",
-            "attributes": [
-            {
-              "trait_type": "Race", 
-              "value": "Animal"
-            }, 
-            {
-              "trait_type": "Strength", 
-              "value": 9.5
-            }, 
-            {
-              "trait_type": "Agility", 
-              "value": 5
-            }, 
-            {
-              "trait_type": "Intelligence", 
-              "value": 3
-            }, 
-            {
-              "trait_type": "Stamina", 
-              "value": 7
-            }
-          ]
+          "trait_type": "Agility",
+          "value": 4
         },
         {
-            "id": 4,
-            "description": "Human Ferdinand dari animasi 2",
-            "external_url": "https://www.liputan6.com/showbiz/read/3197253/ferdinand-petualangan-banteng-besar-nan-baik-hati",
-            "image": "https://cdn0-production-images-kly.akamaized.net/ew74c2xgNg-AUQQFzJ-23g2U_qw=/640x360/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/1802985/original/012323300_1513333959-publ_170_260_150_4K_UniversalColor_WB.jpg",
-            "name": "Banteng Ferdinand",
-            "attributes": [
-            {
-              "trait_type": "Race", 
-              "value": "Humaan"
-            }, 
-            {
-              "trait_type": "Strength", 
-              "value": 9.5
-            }, 
-            {
-              "trait_type": "Agility", 
-              "value": 5
-            }, 
-            {
-              "trait_type": "Intelligence", 
-              "value": 3
-            }, 
-            {
-              "trait_type": "Stamina", 
-              "value": 7
-            }
-          ]
+          "trait_type": "Intelligence",
+          "value": 8
         },
         {
-            "id": 5,
-            "description": "Human Ferdinand dari animasi 3",
-            "external_url": "https://www.liputan6.com/showbiz/read/3197253/ferdinand-petualangan-banteng-besar-nan-baik-hati",
-            "image": "https://cdn0-production-images-kly.akamaized.net/ew74c2xgNg-AUQQFzJ-23g2U_qw=/640x360/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/1802985/original/012323300_1513333959-publ_170_260_150_4K_UniversalColor_WB.jpg",
-            "name": "Human Ferdinand 3",
-            "attributes": [
-            {
-              "trait_type": "Race", 
-              "value": "Humaan"
-            }, 
-            {
-              "trait_type": "Strength", 
-              "value": 9.5
-            }, 
-            {
-              "trait_type": "Agility", 
-              "value": 5
-            }, 
-            {
-              "trait_type": "Intelligence", 
-              "value": 3
-            }, 
-            {
-              "trait_type": "Stamina", 
-              "value": 7
-            }
-          ]
+          "trait_type": "Stamina",
+          "value": 1
+        },
+        {
+          "display_type": "boost_number",
+          "trait_type": "Aqua Power",
+          "value": 40
+        },
+        {
+          "display_type": "boost_percentage",
+          "trait_type": "Stamina Increase",
+          "value": 10
+        },
+        {
+          "display_type": "number",
+          "trait_type": "Generation",
+          "value": 2
         }
-    ]
+      ]
+    },
+    {
+      "id": 2,
+      "description": "Ini Kodok Ajaib Super Bisa Terbang Loch",
+      "external_url": "https://en.wikipedia.org/wiki/Wallace%27s_flying_frog",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Rhacophorus_nigropalmatus.jpg/800px-Rhacophorus_nigropalmatus.jpg",
+      "name": "Kodok Wikipedia",
+      "attributes": [
+        {
+          "trait_type": "Race",
+          "value": "Animal"
+        },
+        {
+          "trait_type": "Strength",
+          "value": 5
+        },
+        {
+          "trait_type": "Agility",
+          "value": 9
+        },
+        {
+          "trait_type": "Intelligence",
+          "value": 7
+        },
+        {
+          "trait_type": "Stamina",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "description": "Banteng Ferdinand dari animasi",
+      "external_url": "https://www.liputan6.com/showbiz/read/3197253/ferdinand-petualangan-banteng-besar-nan-baik-hati",
+      "image": "https://cdn0-production-images-kly.akamaized.net/ew74c2xgNg-AUQQFzJ-23g2U_qw=/640x360/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/1802985/original/012323300_1513333959-publ_170_260_150_4K_UniversalColor_WB.jpg",
+      "name": "Banteng Ferdinand",
+      "attributes": [
+        {
+          "trait_type": "Race",
+          "value": "Animal"
+        },
+        {
+          "trait_type": "Strength",
+          "value": 9.5
+        },
+        {
+          "trait_type": "Agility",
+          "value": 5
+        },
+        {
+          "trait_type": "Intelligence",
+          "value": 3
+        },
+        {
+          "trait_type": "Stamina",
+          "value": 7
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "description": "Human Ferdinand dari animasi 2",
+      "external_url": "https://www.liputan6.com/showbiz/read/3197253/ferdinand-petualangan-banteng-besar-nan-baik-hati",
+      "image": "https://cdn0-production-images-kly.akamaized.net/ew74c2xgNg-AUQQFzJ-23g2U_qw=/640x360/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/1802985/original/012323300_1513333959-publ_170_260_150_4K_UniversalColor_WB.jpg",
+      "name": "Banteng Ferdinand",
+      "attributes": [
+        {
+          "trait_type": "Race",
+          "value": "Humaan"
+        },
+        {
+          "trait_type": "Strength",
+          "value": 9.5
+        },
+        {
+          "trait_type": "Agility",
+          "value": 5
+        },
+        {
+          "trait_type": "Intelligence",
+          "value": 3
+        },
+        {
+          "trait_type": "Stamina",
+          "value": 7
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "description": "Human Ferdinand dari animasi 3",
+      "external_url": "https://www.liputan6.com/showbiz/read/3197253/ferdinand-petualangan-banteng-besar-nan-baik-hati",
+      "image": "https://cdn0-production-images-kly.akamaized.net/ew74c2xgNg-AUQQFzJ-23g2U_qw=/640x360/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/1802985/original/012323300_1513333959-publ_170_260_150_4K_UniversalColor_WB.jpg",
+      "name": "Human Ferdinand 3",
+      "attributes": [
+        {
+          "trait_type": "Race",
+          "value": "Humaan"
+        },
+        {
+          "trait_type": "Strength",
+          "value": 9.5
+        },
+        {
+          "trait_type": "Agility",
+          "value": 5
+        },
+        {
+          "trait_type": "Intelligence",
+          "value": 3
+        },
+        {
+          "trait_type": "Stamina",
+          "value": 7
+        }
+      ]
+    }
+  ]
 }
