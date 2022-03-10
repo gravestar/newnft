@@ -4,7 +4,8 @@
       "id": "0",
       "name": "Maledictum",
       "description": "description missing",
-      "image": "google.com",
+      "image": "https://etherscan.io/assets/svg/logos/logo-etherscan.svg?v=0.0.2",
+      "image": "https://etherscan.io/assets/svg/logos/logo-etherscan.svg?v=0.0.2",
       "attributes": [
         {
           "trait_type": "Property3",
