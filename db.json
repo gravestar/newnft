@@ -1,50 +1,51 @@
 {
   "tokens": [
     {
-  "name": "Duck #5124",
-  "image": "http://meta.duck.art/v1/5124.png",
-  "ipfs_image": "COMING SOON",
-  "ipfs_metadata": "COMING SOON",
-  "external_url": "https://duck.art/5124",
-  "description": "Rubber Duck Bath Party is a collection of 10,000 party-loving, dynamic NFTs hand-drawn by Gal Shir.",
-  "attributes": [
-    {
-      "trait_type": "Parties Attended",
-      "max_value": 0,
-      "value": 0
+      "id": "0",
+      "name": "Duck #5124",
+      "image": "http://meta.duck.art/v1/5124.png",
+      "ipfs_image": "COMING SOON",
+      "ipfs_metadata": "COMING SOON",
+      "external_url": "https://duck.art/5124",
+      "description": "Rubber Duck Bath Party is a collection of 10,000 party-loving, dynamic NFTs hand-drawn by Gal Shir.",
+      "attributes": [
+        {
+          "trait_type": "Parties Attended",
+          "max_value": 0,
+          "value": 0
+        },
+        {
+          "trait_type": "Background",
+          "value": "Red Diamonds"
+        },
+        {
+          "trait_type": "Body",
+          "value": "Gold"
+        },
+        {
+          "trait_type": "Neck",
+          "value": "Gold Necklace"
+        },
+        {
+          "trait_type": "Beak",
+          "value": "Gold"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Beer Cap"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Chill"
+        }
+      ],
+      "history": [
+        {
+          "name": "V3",
+          "image": "http://meta.duck.art/v1/5123.png"
+        }
+      ]
     },
-    {
-      "trait_type": "Background",
-      "value": "Banana"
-    },
-    {
-      "trait_type": "Body",
-      "value": "Yellow Rubber"
-    },
-    {
-      "trait_type": "Shirt",
-      "value": "White"
-    },
-    {
-      "trait_type": "Beak",
-      "value": "Smile"
-    },
-    {
-      "trait_type": "Head",
-      "value": "Coffee Cup"
-    },
-    {
-      "trait_type": "Eyes",
-      "value": "Tense"
-    }
-  ],
-  "history": [
-    {
-      "name": "V3",
-  "image": "http://meta.duck.art/v1/5123.png",
-    }
-  ]
-},
     {
       "id": "1",
       "name": "Maledictum",
@@ -97,7 +98,7 @@
       "id": "3",
       "name": "Naga",
       "description": "description missing",
-      "image": "google.com",
+      "image": "http://meta.duck.art/v1/5127.png",
       "attributes": [
         {
           "trait_type": "Property3",
@@ -121,7 +122,7 @@
       "id": "4",
       "name": "Interregnum",
       "description": "description missing",
-      "image": "google.com",
+      "image": "http://meta.duck.art/v1/5128.png",
       "attributes": [
         {
           "trait_type": "Property3",
@@ -145,7 +146,7 @@
       "id": "5",
       "name": "Naga",
       "description": "description missing",
-      "image": "google.com",
+      "image": "http://meta.duck.art/v1/5129.png",
       "attributes": [
         {
           "trait_type": "Property3",
@@ -169,7 +170,7 @@
       "id": "6",
       "name": "Naga",
       "description": "description missing",
-      "image": "google.com",
+      "image": "http://meta.duck.art/v1/5130.png",
       "attributes": [
         {
           "trait_type": "Property3",
