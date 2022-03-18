@@ -1,118 +1,10 @@
 {
   "tokens": [
     {
-      "id": 1,
-      "name": "Gold Compass Medallion #1",
-      "image": "ipfs://bafybeicsdwonjz5sfjimm4notv4nenliwski37iwvbrvd43kycgq4jgn5e/assets/13.png",
-      "description": "Gold medallions were awarded to the command and control members of Operation Compass. This medallion was awarded to CJ.0111.69510769 for their command of Protocol-site: Meridian-OP-Compass.",
-      "attributes": [
-        {
-          "trait_type": "Tier",
-          "value": "Gold"
-        },
-        {
-          "trait_type": "Base",
-          "value": "Meridian"
-        },
-        {
-          "trait_type": "Class",
-          "value": "Archivist"
-        },
-        {
-          "trait_type": "Compass ID",
-          "value": "A.A.J004-Meridian"
-        }
-      ]
-    },
-    {
-      "id": 2,
-      "name": "Gold Compass Medallion #2",
-      "image": "ipfs://bafybeicsdwonjz5sfjimm4notv4nenliwski37iwvbrvd43kycgq4jgn5e/assets/14.png",
-      "description": "Gold medallions were awarded to the command and control members of Operation Compass. This medallion was awarded to CJ.0111.69510769 for their command of Protocol-site: Meridian-OP-Compass.",
-      "attributes": [
-        {
-          "trait_type": "Tier",
-          "value": "Gold"
-        },
-        {
-          "trait_type": "Base",
-          "value": "Meridian"
-        },
-        {
-          "trait_type": "Class",
-          "value": "Archivist"
-        },
-        {
-          "trait_type": "Compass ID",
-          "value": "A.A.J005-Meridian"
-        },
-        {
-          "trait_type": "Blood Splatter",
-          "value": "Upward Impact Splatter, Up"
-        }
-      ]
-    },
-    {
-      "id": 3,
-      "name": "Gold Compass Medallion #3",
-      "image": "ipfs://bafybeicsdwonjz5sfjimm4notv4nenliwski37iwvbrvd43kycgq4jgn5e/assets/15.png",
-      "description": "Gold medallions were awarded to the command and control members of Operation Compass. This medallion was awarded to CJ.0111.69510769 for their command of Protocol-site: Meridian-OP-Compass.",
-      "attributes": [
-        {
-          "trait_type": "Tier",
-          "value": "Gold"
-        },
-        {
-          "trait_type": "Base",
-          "value": "Meridian"
-        },
-        {
-          "trait_type": "Class",
-          "value": "Archivist"
-        },
-        {
-          "trait_type": "Compass ID",
-          "value": "A.J.J001-Meridian"
-        },
-        {
-          "trait_type": "Blood Splatter",
-          "value": "Arterial Spurt, Upper Mass"
-        }
-      ]
-    },
-    {
-      "id": 4,
-      "name": "Gold Compass Medallion #4",
-      "image": "ipfs://bafybeicsdwonjz5sfjimm4notv4nenliwski37iwvbrvd43kycgq4jgn5e/assets/12.png",
-      "description": "Gold medallions were awarded to the command and control members of Operation Compass. This medallion was awarded to CJ.0111.69510769 for their command of Protocol-site: Meridian-OP-Compass.",
-      "attributes": [
-        {
-          "trait_type": "Tier",
-          "value": "Gold"
-        },
-        {
-          "trait_type": "Base",
-          "value": "Meridian"
-        },
-        {
-          "trait_type": "Class",
-          "value": "Archivist"
-        },
-        {
-          "trait_type": "Compass ID",
-          "value": "A.A.J003-Meridian"
-        },
-        {
-          "trait_type": "Blood Splatter",
-          "value": "Multiple Arterial Spurt, Convergent"
-        }
-      ]
-    },
-    {
       "id": 5,
       "name": "Gold Compass Medallion #5",
       "image": "ipfs://bafybeicsdwonjz5sfjimm4notv4nenliwski37iwvbrvd43kycgq4jgn5e/assets/5.png",
-      "description": "Gold medallions were awarded to the command and control members of Operation Compass. This medallion was awarded to CJ.0111.69510769 for their command of Protocol-site: Meridian-OP-Compass.",
+      "description": "Gold medallions were awarded to the command and control members of Operation Compass. Archivists are tasked with researching, cataloging, and maintaining all written materials. Archivists in Operation Compass were of different ranks, Master, Adept, Journeyman, and Apprentice.",
       "attributes": [
         {
           "trait_type": "Tier",
@@ -128,7 +20,7 @@
         },
         {
           "trait_type": "Compass ID",
-          "value": "A.M.J001-Meridian"
+          "value": "A.M.CJ0111-001"
         },
         {
           "trait_type": "Marks",
@@ -140,7 +32,7 @@
       "id": 6,
       "name": "Gold Compass Medallion #6",
       "image": "ipfs://bafybeicsdwonjz5sfjimm4notv4nenliwski37iwvbrvd43kycgq4jgn5e/assets/6.png",
-      "description": "Gold medallions were awarded to the command and control members of Operation Compass. This medallion was awarded to CJ.0111.69510769 for their command of Protocol-site: Meridian-OP-Compass.",
+      "description": "Gold medallions were awarded to the command and control members of Operation Compass. Archivists are tasked with researching, cataloging, and maintaining all written materials. Archivists in Operation Compass were of different ranks, Master, Adept, Journeyman, and Apprentice.",
       "attributes": [
         {
           "trait_type": "Tier",
@@ -156,7 +48,7 @@
         },
         {
           "trait_type": "Compass ID",
-          "value": "A.M.J002-Meridian"
+          "value": "A.M.CJ0111-002"
         },
         {
           "trait_type": "Blood Splatter",
@@ -168,7 +60,7 @@
       "id": 7,
       "name": "Gold Compass Medallion #7",
       "image": "ipfs://bafybeicsdwonjz5sfjimm4notv4nenliwski37iwvbrvd43kycgq4jgn5e/assets/7.png",
-      "description": "Gold medallions were awarded to the command and control members of Operation Compass. This medallion was awarded to CJ.0111.69510769 for their command of Protocol-site: Meridian-OP-Compass.",
+      "description": "Gold medallions were awarded to the command and control members of Operation Compass. Archivists are tasked with researching, cataloging, and maintaining all written materials. Archivists in Operation Compass were of different ranks, Master, Adept, Journeyman, and Apprentice.",
       "attributes": [
         {
           "trait_type": "Tier",
@@ -184,7 +76,7 @@
         },
         {
           "trait_type": "Compass ID",
-          "value": "A.M.J003-Meridian"
+          "value": "A.M.CJ0111-003"
         },
         {
           "trait_type": "Marks",
@@ -196,7 +88,7 @@
       "id": 8,
       "name": "Gold Compass Medallion #8",
       "image": "ipfs://bafybeicsdwonjz5sfjimm4notv4nenliwski37iwvbrvd43kycgq4jgn5e/assets/8.png",
-      "description": "Gold medallions were awarded to the command and control members of Operation Compass. This medallion was awarded to CJ.0111.69510769 for their command of Protocol-site: Meridian-OP-Compass.",
+      "description": "Gold medallions were awarded to the command and control members of Operation Compass. Archivists are tasked with researching, cataloging, and maintaining all written materials. Archivists in Operation Compass were of different ranks, Master, Adept, Journeyman, and Apprentice.",
       "attributes": [
         {
           "trait_type": "Tier",
@@ -212,7 +104,7 @@
         },
         {
           "trait_type": "Compass ID",
-          "value": "A.M.J004-Meridian"
+          "value": "A.M.CJ0111-004"
         },
         {
           "trait_type": "Marks",
@@ -224,7 +116,7 @@
       "id": 9,
       "name": "Gold Compass Medallion #9",
       "image": "ipfs://bafybeicsdwonjz5sfjimm4notv4nenliwski37iwvbrvd43kycgq4jgn5e/assets/9.png",
-      "description": "Gold medallions were awarded to the command and control members of Operation Compass. This medallion was awarded to CJ.0111.69510769 for their command of Protocol-site: Meridian-OP-Compass.",
+      "description": "Gold medallions were awarded to the command and control members of Operation Compass. Archivists are tasked with researching, cataloging, and maintaining all written materials. Archivists in Operation Compass were of different ranks, Master, Adept, Journeyman, and Apprentice.",
       "attributes": [
         {
           "trait_type": "Tier",
@@ -240,7 +132,7 @@
         },
         {
           "trait_type": "Compass ID",
-          "value": "A.M.J005-Meridian"
+          "value": "A.M.CJ0111-005"
         },
         {
           "trait_type": "Blood Splatter",
@@ -252,7 +144,7 @@
       "id": 10,
       "name": "Gold Compass Medallion #10",
       "image": "ipfs://bafybeicsdwonjz5sfjimm4notv4nenliwski37iwvbrvd43kycgq4jgn5e/assets/10.png",
-      "description": "Gold medallions were awarded to the command and control members of Operation Compass. This medallion was awarded to CJ.0111.69510769 for their command of Protocol-site: Meridian-OP-Compass.",
+      "description": "Gold medallions were awarded to the command and control members of Operation Compass. Archivists are tasked with researching, cataloging, and maintaining all written materials. Archivists in Operation Compass were of different ranks, Master, Adept, Journeyman, and Apprentice.",
       "attributes": [
         {
           "trait_type": "Tier",
@@ -268,7 +160,7 @@
         },
         {
           "trait_type": "Compass ID",
-          "value": "A.A.J001-Meridian"
+          "value": "A.A.CJ0111-001"
         },
         {
           "trait_type": "Blood Splatter",
@@ -277,10 +169,10 @@
       ]
     },
     {
-      "id": 11,
-      "name": "Gold Compass Medallion #11",
+      "id": 1,
+      "name": "Gold Compass Medallion #1",
       "image": "ipfs://bafybeicsdwonjz5sfjimm4notv4nenliwski37iwvbrvd43kycgq4jgn5e/assets/11.png",
-      "description": "Gold medallions were awarded to the command and control members of Operation Compass. This medallion was awarded to CJ.0111.69510769 for their command of Protocol-site: Meridian-OP-Compass.",
+      "description": "Gold medallions were awarded to the command and control members of Operation Compass. Archivists are tasked with researching, cataloging, and maintaining all written materials. Archivists in Operation Compass were of different ranks, Master, Adept, Journeyman, and Apprentice.",
       "attributes": [
         {
           "trait_type": "Tier",
@@ -296,11 +188,91 @@
         },
         {
           "trait_type": "Compass ID",
-          "value": "A.A.J002-Meridian"
+          "value": "A.A.CJ0111-002"
         },
         {
           "trait_type": "Marks",
           "value": "Mold, Olive"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Gold Compass Medallion #2",
+      "image": "ipfs://bafybeicsdwonjz5sfjimm4notv4nenliwski37iwvbrvd43kycgq4jgn5e/assets/12.png",
+      "description": "Gold medallions were awarded to the command and control members of Operation Compass. Archivists are tasked with researching, cataloging, and maintaining all written materials. Archivists in Operation Compass were of different ranks, Master, Adept, Journeyman, and Apprentice.",
+      "attributes": [
+        {
+          "trait_type": "Tier",
+          "value": "Gold"
+        },
+        {
+          "trait_type": "Base",
+          "value": "Meridian"
+        },
+        {
+          "trait_type": "Class",
+          "value": "Archivist"
+        },
+        {
+          "trait_type": "Compass ID",
+          "value": "A.A.CJ0111-003"
+        },
+        {
+          "trait_type": "Blood Splatter",
+          "value": "Multiple Arterial Spurt, Convergent"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Gold Compass Medallion #3",
+      "image": "ipfs://bafybeicsdwonjz5sfjimm4notv4nenliwski37iwvbrvd43kycgq4jgn5e/assets/13.png",
+      "description": "Gold medallions were awarded to the command and control members of Operation Compass. Archivists are tasked with researching, cataloging, and maintaining all written materials. Archivists in Operation Compass were of different ranks, Master, Adept, Journeyman, and Apprentice.",
+      "attributes": [
+        {
+          "trait_type": "Tier",
+          "value": "Gold"
+        },
+        {
+          "trait_type": "Base",
+          "value": "Meridian"
+        },
+        {
+          "trait_type": "Class",
+          "value": "Archivist"
+        },
+        {
+          "trait_type": "Compass ID",
+          "value": "A.A.CJ0111-004"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Gold Compass Medallion #4",
+      "image": "ipfs://bafybeicsdwonjz5sfjimm4notv4nenliwski37iwvbrvd43kycgq4jgn5e/assets/14.png",
+      "description": "Gold medallions were awarded to the command and control members of Operation Compass. Archivists are tasked with researching, cataloging, and maintaining all written materials. Archivists in Operation Compass were of different ranks, Master, Adept, Journeyman, and Apprentice.",
+      "attributes": [
+        {
+          "trait_type": "Tier",
+          "value": "Gold"
+        },
+        {
+          "trait_type": "Base",
+          "value": "Meridian"
+        },
+        {
+          "trait_type": "Class",
+          "value": "Archivist"
+        },
+        {
+          "trait_type": "Compass ID",
+          "value": "A.A.CJ0111-005"
+        },
+        {
+          "trait_type": "Blood Splatter",
+          "value": "Upward Impact Splatter, Up"
         }
       ]
     }
